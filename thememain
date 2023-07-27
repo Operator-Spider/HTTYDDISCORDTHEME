@@ -28,7 +28,8 @@
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
-	
+
+
 	--background:					url(https://cdn.discordapp.com/attachments/1083215557580566558/1133925837654204496/HD-wallpaper-hiccup-and-toothless-flying-how-to-train-your-dragon-the-hidden-world-how-to-train-your-dragon-3-how-to-train-your-dragon-movies-2019-movies-animated-movies-artist-artwork-digital-art-deviantart.jpg);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
